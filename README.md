@@ -8,6 +8,11 @@
 * CRUD --> CREATE , READ , UPDATE , DELETE
 
 
+## Licence
+
+<img align="left" alt="MIT Licence" width="200px" src="https://img.shields.io/github/license/abinashstack/crud-app?style=for-the-badge" />
+
+
 
 ## Author : ABINASH GOGOI
 
