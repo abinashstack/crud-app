@@ -1,12 +1,18 @@
 ## Crud-app
 
-
-
 * A WEB-APP USING NODE JS
 * FOR DATABASE HANDLING MONGODB WAS BEING USED
 * A BASIC CRUD APP
 * CRUD --> CREATE , READ , UPDATE , DELETE
+<br/>
 
+## Tools and Languages Used:
+
+* Visual Studio Code
+* Nodejs
+* mongodb
+* js
+<br/>
 
 ## Licence
 
